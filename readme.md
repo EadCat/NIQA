@@ -64,10 +64,11 @@ The demo images are from **_KADID10K_** dataset: http://database.mmsp-kn.de/kadi
 ### Repositories
 
 1. BRISQUE(&darr;): https://github.com/spmallick/learnopencv/blob/master/ImageMetrics/Python/brisquequality.py
-2. NIQE(&darr;): https://github.com/guptapraful/niqe / Model parameters: https://github.com/csjunxu/Bovik_NIQE_SPL2013
-3. PIQE(&darr;): https://github.com/buyizhiyou/NRVQA
-4. RankIQA(&darr;): https://github.com/YunanZhu/Pytorch-TestRankIQA
-5. MetaIQA(&uarr;): https://github.com/zhuhancheng/MetaIQA
+2. NIQE(&darr;): https://github.com/guptapraful/niqeModel
+3. NIQE model parameters: https://github.com/csjunxu/Bovik_NIQE_SPL2013
+4. PIQE(&darr;): https://github.com/buyizhiyou/NRVQA
+5. RankIQA(&darr;): https://github.com/YunanZhu/Pytorch-TestRankIQA
+6. MetaIQA(&uarr;): https://github.com/zhuhancheng/MetaIQA
 
 ### Images
 1. KADID10K: http://database.mmsp-kn.de/kadid-10k-database.html
@@ -78,4 +79,5 @@ The demo images are from **_KADID10K_** dataset: http://database.mmsp-kn.de/kadi
 Dae-Young Song
 
 M.S. Student, Department of Electronics Engineering, Chungnam National University
+
 Github: https://github.com/EadCat
