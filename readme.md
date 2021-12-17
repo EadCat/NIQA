@@ -24,7 +24,7 @@ No-reference Image Quality Assessment(**NIQA**) is a task of evaluating an image
 
 ---
 ## 2. Dependencies
-I used the following libraries.
+I used the following libraries in Windows 10.
 ```
 python == 3.9.7
 
