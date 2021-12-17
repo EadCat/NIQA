@@ -64,7 +64,7 @@ The demo images are from **_KADID10K_** dataset: http://database.mmsp-kn.de/kadi
 ### Repositories
 
 1. BRISQUE(&darr;): https://github.com/spmallick/learnopencv/blob/master/ImageMetrics/Python/brisquequality.py
-2. NIQE(&darr;): https://github.com/guptapraful/niqeModel
+2. NIQE(&darr;): https://github.com/guptapraful/niqe
 3. NIQE model parameters: https://github.com/csjunxu/Bovik_NIQE_SPL2013
 4. PIQE(&darr;): https://github.com/buyizhiyou/NRVQA
 5. RankIQA(&darr;): https://github.com/YunanZhu/Pytorch-TestRankIQA
