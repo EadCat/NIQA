@@ -46,6 +46,16 @@ pandas == 1.3.4
 
 ## 3. Quick Start
 
+Download the pre-trained model checkpoint files.
+
+1. RankIQA: https://drive.google.com/drive/folders/1Y2WgNHL6vowvKA0ISGUefQiggvrCL5rl?usp=sharing
+
+    default directory: ./RankIQA/Rank_live.caffemodel.pt
+
+2. MetaIQA: https://drive.google.com/drive/folders/1SCo56y9s0yB-TPcnVHqoc63TZ2ngSxPG?usp=sharing
+
+    default directory: ./MetaIQA/metaiqa.pth
+
 ### Windows User
 
 - Run demo1.bat & demo2.bat in the windows terminal.
