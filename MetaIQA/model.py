@@ -66,7 +66,7 @@ class MetaIQA(nn.Module):
 
         self.resnet_layer = resnet18(pretrained=False)
         self.net = BaselineModel1(1, 0.5, 1000)
-        state_dict = torch.load(r'./MetaIQA/metaiqa.pth')
+        state_dict = torch.load(r'./MetaIQA/metaiqa.pth', map_location='cpu')
         self.load_state_dict(state_dict, strict=True)
 
         self.gpu = opt.gpu

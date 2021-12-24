@@ -68,7 +68,7 @@ class Vgg16(nn.Module):
         :param file: the model file to load.
         :param debug: indicate if output the debug info.
         """
-        state_dict = torch.load(file)
+        state_dict = torch.load(file, map_location='cpu')
 
         dict_to_load = dict()
         for k, v in state_dict.items():  # "v" is parameter and "k" is its name
