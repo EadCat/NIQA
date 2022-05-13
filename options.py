@@ -27,7 +27,7 @@ class Options:
         self.parser.add_argument('--root', type=str, default=None, help='a root directory of target folders')
 
         # file extension
-        self.parser.add_argument('--ext', type=str, default='png', nargs='+', help='extension of target files')
+        self.parser.add_argument('--ext', type=str, default=['png'], nargs='+', help='extension of target files')
         # metrics
         self.parser.add_argument('--metric', type=str, default=None, nargs='+',
                                  help='piqe selection for evaluation',
