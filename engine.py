@@ -19,7 +19,7 @@ def metric_pass(*args, **kwargs):
 
 def bring_name(metric):
     try: return metric.__name__
-    except: return metric.__class__.__name__
+    except AttributeError: return metric.__class__.__name__
 
 
 class NiqaEngine:
